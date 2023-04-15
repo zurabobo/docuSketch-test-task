@@ -1,0 +1,13 @@
+.btn {
+  padding: 14px 0;
+  width: 200px;
+  border-radius: 6px;
+  border: none;
+  background: #343434;
+  cursor: pointer;
+}
+
+.btn[disabled] {
+  opacity: .5;
+  cursor: not-allowed;
+}
