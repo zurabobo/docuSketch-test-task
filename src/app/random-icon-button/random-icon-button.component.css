@@ -11,3 +11,8 @@
   opacity: .5;
   cursor: not-allowed;
 }
+
+.btn:hover:enabled {
+  opacity: .9;
+}
+
