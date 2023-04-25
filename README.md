@@ -1,6 +1,6 @@
 # [Demo on Netlify](https://random-icons-btn.netlify.app/)
 
-# Задача: 
+## Задача
 
 1. Создать проект Angular
 2. Подключить к проекту библиотеку Font Awesome
@@ -10,7 +10,7 @@
 4. Каждое нажатие должно быть обработано
 5. Разместить компонент по центру страницы горизонтально и вертикально
 
-# DocuSketchTestTask
+## DocuSketchTestTask
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
